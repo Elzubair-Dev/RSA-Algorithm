@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Elzubair\source\repos\RSA\Source.cpp(65,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Elzubair\source\repos\RSA\Source.cpp(98,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Elzubair\source\repos\RSA\Source.cpp(123): warning C4715: 'd_call': not all control paths return a value
+  RSA.vcxproj -> C:\Users\Elzubair\source\repos\RSA\Debug\RSA.exe
